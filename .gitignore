@@ -19,3 +19,4 @@ ENV/
 # project
 poetry.lock
 pyproject.toml
+main.py
